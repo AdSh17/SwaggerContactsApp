@@ -1,2 +1,1 @@
-# SwaggerContactsApp
-ContactsApp using Swagger
+# Skeleton project for Swagger
